@@ -11,5 +11,6 @@ A small library for common math functions
 |  Function | Description |
 |  --- | --- |
 |  [avg(a, b, c)](./my-lib.avg.md) | Calculate the average of three numbers |
+|  [subtract(a, b)](./my-lib.subtract.md) | <b><i>(BETA)</i></b> Calculates the difference between two numbers |
 |  [sum3(a, b, c)](./my-lib.sum3.md) | <b><i>(BETA)</i></b> Calculate the sum of three numbers |
 
